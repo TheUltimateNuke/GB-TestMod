@@ -1,5 +1,5 @@
 Name=TestMod
 Author=The_UltimateNuke
 Message="hello world!"
-Links=https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/build%2FTestMod.dll,https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/AssetBundles%2Fassetbtest
+Links=https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/build%2FTestMod.dll
 LatestVersion=https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/version
