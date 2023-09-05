@@ -1,6 +1,5 @@
 Name=TestMod
 Author=The_UltimateNuke
-Message=https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/message
-CementFile=https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/TestMod.cmt
-Links=https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/TestMod.dll,https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/build%2FTestMod.dll,https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/AssetBundles%2Fassetbtest
+Message="hello world!"
+Links=https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/build%2FTestMod.dll,https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/AssetBundles%2Fassetbtest
 LatestVersion=https://raw.githubusercontent.com/The_UltimateNuke/GB-TestMod/master/version
